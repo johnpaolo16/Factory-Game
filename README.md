@@ -4,7 +4,7 @@
 
 <br>
 <h3>Outlast and LastOfUs are concrete objects that implements Game interface.
-
+<br>
 GameGenre holds attributes such as GameId, GameName.
 
 Gamer would be the client object.
